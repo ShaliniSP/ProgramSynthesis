@@ -1,0 +1,16 @@
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.Tests.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.Tests.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.Tests.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.Tests.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.Tests.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/bin/Debug/netcoreapp2.1/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.csproj.CopyComplete
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/Debug/netcoreapp2.1/ProseTutorial.Tests.pdb

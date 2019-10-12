@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/ProseTutorial.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/ProseTutorial.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/ProseTutorial.Tests.csproj",
+        "projectName": "ProseTutorial.Tests",
+        "projectPath": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/ProseTutorial.Tests.csproj",
+        "packagesPath": "/home/Shalini/.nuget/packages/",
+        "outputPath": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/Shalini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/ProseTutorial.csproj": {
+                "projectPath": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/ProseTutorial.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.18, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.3.0-preview-20170628-02, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.ProgramSynthesis": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.ProgramSynthesis.Compiler": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/ProseTutorial.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/ProseTutorial.csproj",
+        "projectName": "ProseTutorial",
+        "projectPath": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/ProseTutorial.csproj",
+        "packagesPath": "/home/Shalini/.nuget/packages/",
+        "outputPath": "/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/Shalini/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.ProgramSynthesis": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            },
+            "Microsoft.ProgramSynthesis.Compiler": {
+              "target": "Package",
+              "version": "[7.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

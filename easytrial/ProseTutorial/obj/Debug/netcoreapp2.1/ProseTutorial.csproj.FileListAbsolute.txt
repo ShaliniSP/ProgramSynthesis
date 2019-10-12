@@ -1,0 +1,10 @@
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/bin/Debug/netcoreapp2.1/ProseTutorial.deps.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/bin/Debug/netcoreapp2.1/ProseTutorial.runtimeconfig.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/bin/Debug/netcoreapp2.1/ProseTutorial.runtimeconfig.dev.json
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/bin/Debug/netcoreapp2.1/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/bin/Debug/netcoreapp2.1/ProseTutorial.pdb
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/Debug/netcoreapp2.1/ProseTutorial.csprojAssemblyReference.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/Debug/netcoreapp2.1/ProseTutorial.AssemblyInfoInputs.cache
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/Debug/netcoreapp2.1/ProseTutorial.AssemblyInfo.cs
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/Debug/netcoreapp2.1/ProseTutorial.dll
+/home/Shalini/Desktop/SEM 7/RC/Prose/easytrial/ProseTutorial/obj/Debug/netcoreapp2.1/ProseTutorial.pdb

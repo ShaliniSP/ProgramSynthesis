@@ -1,0 +1,13 @@
+﻿//namespace usings regular c# libraries
+using semantics ProseTutorial.Semantics; //semantics usings which are static classes that contain implementations of grammars
+using learners ProseTutorial.WitnessFunctions, ProseTutorial.Learners; //learners using which are non static classes that inherit Domain learning logic
+
+language Evaluation;
+
+@complete feature double Score = ProseTutorial.RankingScore;
+
+@input int v; //single input only
+
+@start int program := Plus(v, k) | Minus(v, k);
+
+@values[NumGen] int k;
